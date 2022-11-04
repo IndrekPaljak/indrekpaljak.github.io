@@ -1,12 +1,62 @@
 <!DOCTYPE html>
 <html>
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
 <head>
-<title>Page Title</title>
+<title>TalTechi nimetused</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Taltechi nimed</h1>
+<p>Tallinna Tehnikaülikool on ülikool Tallinnas, mis on läbi aastate kandnud erinevaid nimesid.</p>
+<br>
 
+<table>
+  <caption>Taltechi ametlikud nimed 1919-</caption>
+  <tr>
+    <td><b>Nimetus</b></td>
+    <td><b>Aastad</b></td>
+  </tr>
+  <tr>
+    <td>Tallinna Tehnikum</td>
+    <td>1919-1936</td>
+  </tr>
+  <tr>
+	<td>Tallinna Tehnikainstituut</td>
+	<td>1936-1937</td>
+  </tr>
+    <tr>
+	<td>Tallinna Tehnikaülikool</td>
+	<td>1937-1941</td>
+  </tr>
+    <tr>
+	<td>Tallinna Polütehniline Instituut</td>
+	<td>1941</td>
+  </tr>
+    <tr>
+	<td>Tallinna Tehnikaülikool</td>
+	<td>1941-1944</td>
+  </tr>
+    <tr>
+	<td>Tallinna Polütehniline Instituut</td>
+	<td>1944-1989</td>
+  </tr>
+    <tr>
+	<td>Tallinna Tehnikaülikool</td>
+	<td>1989-</td>
+  </tr>
+</table>
+
+<p>Tänapäeval tuntakse Tallinna Tehnikaülikooli laialdaselt TalTechi nime all, antud lühend on kasutusel ka ülikooli logol ja ka ülikooli 
+<a href="https://taltech.ee/">veebilehel</a>!</p>
+
+<img src="https://haldus.taltech.ee/sites/default/files/styles/manual_crop/public/news-image/TalTech_logo.jpg?itok=yUsaBDMm"
+alt="taltechi logo" style="width:25%">
+
+<p>Veebilehe looja: 222385IAIB</p>
 </body>
 </html>
